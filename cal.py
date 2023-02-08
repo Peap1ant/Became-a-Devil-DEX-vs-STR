@@ -39,7 +39,7 @@ description_label = tkinter.Label(win, text='스탯 입력')
 description_label.place(x=150, y=30)
 
 # min_atk
-min_label = tkinter.Label(win, text='최소 대미지')
+min_label = tkinter.Label(win, text='최소 공격력')
 min_label.place(x=50, y=50)
 
 min_entry = tkinter.Entry(win, width=20)
